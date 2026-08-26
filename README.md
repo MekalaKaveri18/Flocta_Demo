@@ -19,6 +19,4 @@ http://127.0.0.1:43147
 
 Repo: [MekalaKaveri18/Flocta_Demo](https://github.com/MekalaKaveri18/Flocta_Demo)
 
-1. Push `main` to GitHub.
-2. [vercel.com/new](https://vercel.com/new) → Import that repo → Framework **Next.js** → Deploy.
-3. Root directory `.` — no env vars required.
+https://flocta-demo.vercel.app
